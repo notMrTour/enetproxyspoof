@@ -1,6 +1,6 @@
 # Growtopia enet proxy
 
-# Download release for V3.51 [here](https://github.com/ama6nen/enetproxy/releases/tag/V3.51)
+# Download release [here](https://github.com/cucksexy/enetproxyspoof/releases/tag/release)
 # NOTE: This is not an internal cheat. Proxy is not an internal cheat in any way or form.
 ## For internal see [this](https://github.com/ama6nen/INZERNAL), my new internal project.
 
